@@ -1,4 +1,4 @@
-# Portfolio
+# About Me
 ## Hi, I'm Katey!
 ### Data Analytic Enthusiast
 ![katey](https://user-images.githubusercontent.com/90797036/141707384-5297e7a9-d1f1-45c2-9bad-0d72aa57cfa7.png)
